@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 20px 0;
+  background-color: rgb(211, 211, 211);
+  padding: 20px;
+}
+.btnsContainer {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
